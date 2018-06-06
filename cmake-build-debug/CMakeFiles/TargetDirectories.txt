@@ -1,0 +1,4 @@
+/home/devin/MyHiGit/FaceDetect/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/devin/MyHiGit/FaceDetect/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/devin/MyHiGit/FaceDetect/cmake-build-debug/CMakeFiles/demo.dir
+/home/devin/MyHiGit/FaceDetect/cmake-build-debug/CMakeFiles/FaceDetect.dir

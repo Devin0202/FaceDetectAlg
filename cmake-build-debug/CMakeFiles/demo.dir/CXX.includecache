@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/devin/MyHiGit/FaceDetect/Hifd.h
+HifdTypes.h
+/home/devin/MyHiGit/FaceDetect/HifdTypes.h
+
+/home/devin/MyHiGit/FaceDetect/HifdTypes.h
+cstdlib
+-
+cstdint
+-
+
+/home/devin/MyHiGit/FaceDetect/main.cpp
+iostream
+-
+Hifd.h
+/home/devin/MyHiGit/FaceDetect/Hifd.h
+
