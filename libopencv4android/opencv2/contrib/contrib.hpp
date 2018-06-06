@@ -649,7 +649,7 @@ namespace cv
     *of the four nearest neighbouring Cartesian pixels to the center of the RF.
     *The same principle is applied to the inverse transformation.
     *
-    *More details can be found in http://dx.doi.org/10.1007/978-3-642-23968-7_5
+    *More details can be found in https://doi.org/10.1007/978-3-642-23968-7_5
     */
     class CV_EXPORTS LogPolar_Interp
     {
@@ -714,7 +714,7 @@ namespace cv
     *The fovea (oversampling) is handled by using the bilinear interpolation technique described above, whereas in
     *the periphery we use the overlapping Gaussian circular RFs.
     *
-    *More details can be found in http://dx.doi.org/10.1007/978-3-642-23968-7_5
+    *More details can be found in https://doi.org/10.1007/978-3-642-23968-7_5
     */
     class CV_EXPORTS LogPolar_Overlapping
     {
@@ -788,7 +788,7 @@ namespace cv
     *This technique is implemented from: Traver, V., Pla, F.: Log-polar mapping template design: From task-level requirements
     *to geometry parameters. Image Vision Comput. 26(10) (2008) 1354-1370
     *
-    *More details can be found in http://dx.doi.org/10.1007/978-3-642-23968-7_5
+    *More details can be found in https://doi.org/10.1007/978-3-642-23968-7_5
     */
     class CV_EXPORTS LogPolar_Adjacent
     {
